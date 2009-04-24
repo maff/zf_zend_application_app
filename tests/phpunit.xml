@@ -1,0 +1,6 @@
+<phpunit bootstrap="./TestHelper.php" colors="true">
+    <testsuite name="MyProject">
+        <directory>./</directory>
+    </testsuite>
+</phpunit>
+ 
